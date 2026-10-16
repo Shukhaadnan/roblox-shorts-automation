@@ -1,0 +1,138 @@
+{
+ "name": "tilt5_whiff",
+ "raw": "./videos/raw_tilt_s2.mp4",
+ "crop": "transpose=1,crop=821:1460:129:300",
+ "script": "In this Roblox game, you can push anyone off the plate. But here's the catch. If you miss, you trip. I tried to push a guy right at the edge, he stepped away, and I flew off the plate instead. Worst push ever. Save this video and follow for more. The game is called Extreme Tilt!",
+ "red": [
+  "anyone",
+  "catch.",
+  "miss,",
+  "trip.",
+  "edge,",
+  "flew",
+  "instead.",
+  "worst"
+ ],
+ "raws": {},
+ "shots": [
+  [
+   0,
+   17.0,
+   "rzoom"
+  ],
+  [
+   11,
+   19.0,
+   "hwhip"
+  ],
+  [
+   18,
+   22.4,
+   "cut"
+  ],
+  [
+   23,
+   24.4,
+   "whip"
+  ],
+  [
+   29,
+   25.6,
+   "cut"
+  ],
+  [
+   33,
+   26.8,
+   "wflash"
+  ],
+  [
+   40,
+   82.2,
+   "cut"
+  ],
+  [
+   43,
+   80.0,
+   "hwhip"
+  ]
+ ],
+ "emoji": {
+  "20": {
+   "e": "😬",
+   "dur": 0.7,
+   "size": 300,
+   "y": 1560
+  },
+  "40": {
+   "e": "💀",
+   "dur": 0.7,
+   "size": 300,
+   "y": 1560
+  }
+ },
+ "stick": {
+  "43": "bookmark",
+  "47": "follow"
+ },
+ "end_card": {
+  "image": "./thumbnails/tilt/tilt_icon_v2.png",
+  "word": 53,
+  "delay": 0.05,
+  "name": [
+   "EXTREME TILT!"
+  ],
+  "name_color": [
+   255,
+   214,
+   40
+  ],
+  "sub": "by SkyipsCreator",
+  "w": 600,
+  "y": 880
+ },
+ "style": {
+  "font": "C:/Windows/Fonts/ariblk.ttf",
+  "size": 96,
+  "upper": true,
+  "accent": [
+   255,
+   90,
+   70
+  ],
+  "cap_y": 1240,
+  "trans": "slide",
+  "kb": 0.03,
+  "grade": "eq=saturation=1.08:contrast=1.04",
+  "music": "./videos/music/Monkeys_Spinning_Monkeys.mp3",
+  "music_ss": 0,
+  "music_under": 12,
+  "sfx_trans": "whoosh.wav",
+  "sfx_trans_db": -15,
+  "stick_dur": 0.7,
+  "stick_y": 1000,
+  "sfx": {
+   "33": [
+    "fahhh.mp3",
+    -9
+   ],
+   "40": [
+    "bruh.mp3",
+    -8
+   ],
+   "43": [
+    "pop.wav",
+    -8
+   ],
+   "47": [
+    "pop.wav",
+    -8
+   ],
+   "52": [
+    "swish.wav",
+    -9
+   ]
+  }
+ },
+ "out": "./videos/nocard/tilt5_whiff.mp4",
+ "tail": 2.1
+}

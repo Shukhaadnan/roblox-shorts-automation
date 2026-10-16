@@ -1,0 +1,139 @@
+{
+ "name": "tilt5_survive",
+ "raw": "./videos/raw_tilt_s5.mp4",
+ "crop": "transpose=1,crop=821:1460:129:300",
+ "script": "This plate is trying to kill you. It leans to one side out of nowhere. Then an earthquake hits. Then the edges start breaking off, and the plate keeps getting smaller and smaller. One wrong step and you're gone. Can you survive till the end? Save this video and follow for more. The game is called Extreme Tilt!",
+ "red": [
+  "kill",
+  "leans",
+  "earthquake",
+  "edges",
+  "breaking",
+  "smaller",
+  "wrong",
+  "gone.",
+  "survive"
+ ],
+ "raws": {},
+ "shots": [
+  [
+   0,
+   18.6,
+   "rzoom"
+  ],
+  [
+   7,
+   20.0,
+   "cut"
+  ],
+  [
+   15,
+   48.6,
+   "hwhip"
+  ],
+  [
+   19,
+   75.6,
+   "whip"
+  ],
+  [
+   25,
+   22.2,
+   "cut"
+  ],
+  [
+   33,
+   78.6,
+   "wflash"
+  ],
+  [
+   39,
+   88.6,
+   "cut"
+  ],
+  [
+   45,
+   57.2,
+   "hwhip"
+  ]
+ ],
+ "emoji": {
+  "15": {
+   "e": "🌋",
+   "dur": 0.7,
+   "size": 300,
+   "y": 1560
+  },
+  "36": {
+   "e": "😱",
+   "dur": 0.7,
+   "size": 300,
+   "y": 1560
+  }
+ },
+ "stick": {
+  "45": "bookmark",
+  "49": "follow"
+ },
+ "end_card": {
+  "image": "./thumbnails/tilt/tilt_icon_v2.png",
+  "word": 55,
+  "delay": 0.05,
+  "name": [
+   "EXTREME TILT!"
+  ],
+  "name_color": [
+   255,
+   214,
+   40
+  ],
+  "sub": "by SkyipsCreator",
+  "w": 600,
+  "y": 880
+ },
+ "style": {
+  "font": "./videos/fonts/Montserrat-Black.ttf",
+  "size": 96,
+  "upper": true,
+  "accent": [
+   255,
+   90,
+   70
+  ],
+  "cap_y": 1240,
+  "trans": "whip",
+  "kb": 0.03,
+  "grade": "eq=saturation=1.1:contrast=1.05",
+  "music": "./videos/music/Investigations.mp3",
+  "music_ss": 0,
+  "music_under": 12,
+  "sfx_trans": "whoosh.wav",
+  "sfx_trans_db": -15,
+  "stick_dur": 0.7,
+  "stick_y": 1000,
+  "sfx": {
+   "15": [
+    "boom.wav",
+    -12
+   ],
+   "39": [
+    "fahhh.mp3",
+    -10
+   ],
+   "45": [
+    "pop.wav",
+    -8
+   ],
+   "49": [
+    "pop.wav",
+    -8
+   ],
+   "54": [
+    "swish.wav",
+    -9
+   ]
+  }
+ },
+ "out": "./videos/nocard/tilt5_survive.mp4",
+ "tail": 2.1
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.rbxlx
+*.rbxl
+*.lock
+venv/
+.venv/
+node_modules/
+*.log
+tools/.rbx_api_key
